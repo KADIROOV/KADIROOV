@@ -17,21 +17,12 @@
 
 <ul>
   <li>I am a front-end developer</li>
-  <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">1azikk1's GitHub</a></li>
+  <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">KADIROOV's GitHub</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
 ### Languages and Tools:
 <p>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
-  </a>&nbsp;
-   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
-  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   </a>&nbsp;
@@ -48,8 +39,6 @@
 
 ### Connect with me:
 <p>
-  <a href="https://t.me/AlijonovUz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://instagram.com/alijonov.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://t.me/ahmadjonovazizbek" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://instagram.com/1azikk1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
