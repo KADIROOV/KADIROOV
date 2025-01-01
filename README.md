@@ -16,7 +16,7 @@
 <h3 align="center">Information about me</h3>
 
 <ul>
-  <li>I am a backend developer</li>
+  <li>I am a front-end developer</li>
   <li>All my projects are available on <a href="https://github.com/1azikk1?tab=repositories">1azikk1's GitHub</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
