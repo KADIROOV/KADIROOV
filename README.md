@@ -5,19 +5,19 @@
 <h3 align="center">My GitHub Stats and Most Used Languages</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1azikk1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1azikk1&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
+  <img src="https://github-readme-stats.vercel.app/api?username=KADIROOV&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KADIROOV&layout=compact&theme=radical" alt="Most Used Languages" width="38%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1azikk1&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KADIROOV&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
 <h3 align="center">Information about me</h3>
 
 <ul>
   <li>I am a front-end developer</li>
-  <li>All my projects are available on <a href="https://github.com/1azikk1?tab=repositories">1azikk1's GitHub</a></li>
+  <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">1azikk1's GitHub</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
