@@ -38,6 +38,9 @@
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" title="Tailwindcss" width="40" height="40"/>
+  </a>&nbsp;
 </p>
 
 ### Connect with me:
