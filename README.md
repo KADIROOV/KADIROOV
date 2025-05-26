@@ -13,16 +13,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=KADIROOV&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 
-<h3 align="center">Information about me</h3>
+<h3 align="center">Informations about me</h3>
 
 <ul>
-  <li>I am a front-end developer</li>
+  <li>I'm a Front-End Developer</li>
   <li>All my projects are available on <a href="https://github.com/KADIROOV?tab=repositories">KADIROOV's GitHub</a></li>
   <li>My place of study - <a href="https://najottalim.uz" target="_blank">Najot Ta'lim</a></li>
 </ul>
 
-### Languages and Tools:
+### Learned Languages and Tools:
 <p>
+   <a href="https://react-lang.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   </a>&nbsp;
@@ -40,9 +43,6 @@
   </a>&nbsp;
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" title="Tailwindcss" width="40" height="40"/>
-  </a>&nbsp;
-   <a href="https://react-lang.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React" width="40" height="40"/>
   </a>&nbsp;
 </p>
 
