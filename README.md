@@ -26,7 +26,7 @@
    <a href="https://nextjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/add-cloudrun-icon/icons/nextjs/nextjs-original.svg" title="CSS3" width="40" height="40"/>
   </a>&nbsp;
-   <a href="https://react-lang.com" target="_blank">
+   <a href="https://react.dev/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
