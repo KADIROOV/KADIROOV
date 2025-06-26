@@ -23,6 +23,9 @@
 
 ### Learned Languages and Tools:
 <p>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/add-cloudrun-icon/icons/nextjs/nextjs-original.svg" title="CSS3" width="40" height="40"/>
+  </a>&nbsp;
    <a href="https://react-lang.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" title="React" width="40" height="40"/>
   </a>&nbsp;
